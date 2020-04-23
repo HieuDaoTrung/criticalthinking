@@ -2,7 +2,7 @@
 
 ## Buổi 3: Kỹ năng làm việc nhóm
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 ### Tránh tình trạng bỏ bóng đá người => Nguyên tắc 6 chiếc mũ:
 
   - Trắng lâu: thông tin quá nhiều, lan man, thiếu tập trung
@@ -44,3 +44,8 @@ _Xây dựng mối quan hệ tốt - *dopamine generator*_
  "CÔNG ĐOÀN BẢO VỆ QUYỀN LỢI CỦA NGƯỜI LAO ĐỘNG"
  
  >>> Có cái củ l, tin người vcc
+
+---------------------------------------------------------------------------------------
+## REFERENCE KEYWORD
+[1] Dopamine
+[2] Nguyên tắc 6 chiếc mũ
