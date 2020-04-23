@@ -11,7 +11,9 @@
   - Xanh biển: thường dùng
   - Đỏ lâu: cảm tính, thiếu khách quan => Switch bằng "Bạn nghĩ sao nếu quyết định này thành công?"
   - Vàng lâu: quá tích cực, 1 hiệu ứng tương tự đỏ lâu
+  
 _Có thể hoán đổi thứ tự 1 cách linh hoạt_
+
 _Cùng 1 lúc có thể có nhiều người nhiều mũ khác nhau_
 
 ### Để phản biện hiệu quả và giải tỏa tâm lý bị phản bác của người được phản biện:
@@ -23,6 +25,7 @@ _Cùng 1 lúc có thể có nhiều người nhiều mũ khác nhau_
     - Nhờ người được phản biện đưa ra thêm dẫn chứng để tự phản biện
     
 _Phản biện không có nghĩa là phải có kết quả "Ai đúng ai sai"_
+
 _Tư duy phản biện không có nghĩa là chiến thắng đối phương_
 
  ### Cách để ý kiến phản biện được đón nhận:
@@ -33,6 +36,7 @@ _Tư duy phản biện không có nghĩa là chiến thắng đối phương_
  - Có luận điểm thuyết phục
  
 _Tránh tranh luận phản biện chỗ đông người hay hành vi có khả năng gây mất thể diện cho người_
+
 _Xây dựng mối quan hệ tốt - *dopamine generator*_
 
  ** REMEMBER THIS **
