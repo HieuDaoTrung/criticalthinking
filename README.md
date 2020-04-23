@@ -1,6 +1,6 @@
-<center> # LỚP TƯ DUY PHẢN BIỆN 3 - INNEDU.VN </center>
+# LỚP TƯ DUY PHẢN BIỆN 3 - INNEDU.VN
 
-<center> ## Buổi 3: Kỹ năng làm việc nhóm </center>
+## Buổi 3: Kỹ năng làm việc nhóm
 
 ------------------------------------------------------------------------
 ### Tránh tình trạng bỏ bóng đá người => Nguyên tắc 6 chiếc mũ:
@@ -21,6 +21,7 @@ _Cùng 1 lúc có thể có nhiều người nhiều mũ khác nhau_
   - Secondly, break into small points - chia nhỏ ý thành nhiều chi tiết nhỏ hơn và đi giải quyết lần lượt từng chi tiết
   - Thirdly, không đưa ra thông tin mới để phản biện
     - Nhờ người được phản biện đưa ra thêm dẫn chứng để tự phản biện
+    
 _Phản biện không có nghĩa là phải có kết quả "Ai đúng ai sai"_
 _Tư duy phản biện không có nghĩa là chiến thắng đối phương_
 
@@ -31,6 +32,9 @@ _Tư duy phản biện không có nghĩa là chiến thắng đối phương_
  - Đặt vấn đề thể hiện lợi ích của người được phản biện
  - Có luận điểm thuyết phục
  
+_Tránh tranh luận phản biện chỗ đông người hay hành vi có khả năng gây mất thể diện cho người_
+_Xây dựng mối quan hệ tốt - *dopamine generator*_
+
  ** REMEMBER THIS **
  
  "CÔNG ĐOÀN BẢO VỆ QUYỀN LỢI CỦA NGƯỜI LAO ĐỘNG"
