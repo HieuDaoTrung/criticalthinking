@@ -1,4 +1,5 @@
-# CREATIVE THINKING
+# CREATIVE THINKING: TECHNIQUES AND METHODS
+-----------------------------------------------------------------------------------------
 
 ## UNIT 3: BRAINSTORMING TOOLS
 
