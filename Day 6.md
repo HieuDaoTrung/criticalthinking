@@ -1,4 +1,4 @@
-#CREATIVE THINKING TECHNIQUES AND METHODS
+# CREATIVE THINKING TECHNIQUES AND METHODS
 -----------------------------------------------------------------------------------------
 
 ## UNIT 2: CREATIVITY TOOLS
