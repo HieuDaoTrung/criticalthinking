@@ -31,4 +31,21 @@
     * H: Honest - to yourself and the society that you can do it and inspire others to do it
     
 4. Brainwriting
-    
+  - This is a combination of multiple previous technique
+  - Arrange the group in a circle
+  - Distribute blank cards to each participant
+  - Ask participants to sketch an idea on a card
+  - Allow participants to silently, pass the card to the next group member in one direction
+  - Ask participants to read the card received and see if it inspires an idea (several idea cards will be being passed around the group)
+  - Collect all cards after 10-20 min
+  - Review the ideas generated collectively by asking participants to share their favourite ideas or by grading, i.e:
+    Each participant in the session can be invited to evaluate the ideas with a traffic light system. In a traffic light system, each participant can be given a sheet of dots, say 5 dots, and can allocate them to ideas that they think warrant further consideration. The 5 dots can be distributed amongst different ideas, where more can be given to an idea you think is better than another. If you do not have dots or stickers, just draw on a dot! 
+  
+5. Grid
+  - Provide group members with a grid 
+  - Define and introduce the brief to the group
+  - Ask participants to sketch and complete the top row
+  - When finished, ask participants to place the sheets in the middle for someone else to work on the next row developing the ideas further
+  - Once the grid is complete, review ideas as a group
+  _For an effective grid brainstorming session, participants should be patient and allow each person to complete the row of ideas before passing on the page._
+      
