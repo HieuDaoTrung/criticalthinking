@@ -34,5 +34,5 @@
     >> Control all the other hats.
     
 4. Example of application
-  -   
+  -   Yes
     
