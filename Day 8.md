@@ -33,6 +33,12 @@
     > When running into difficulties because ideas are running dry, the blue hat can direct the activities.
     >> Control all the other hats.
     
-4. Example of application
-  -   Yes
+4. Benefits of 6 thinking hats:
+  - Generates ideas immediately
+  - Simple
+  - Individual or group 
+  - Avoids potential threats or arguments
+  - Encourages communication
+  - Improves decision making
+  
     
